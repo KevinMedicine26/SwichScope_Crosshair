@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\cross1212121\crosshair3.exe
+C:\Users\PC\Desktop\cross1212121\crosshair3.dll
+C:\Users\PC\Desktop\cross1212121\crosshair3.deps.json
+C:\Users\PC\Desktop\cross1212121\crosshair3.runtimeconfig.json
+C:\Users\PC\Desktop\cross1212121\crosshair3.pdb
